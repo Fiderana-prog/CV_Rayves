@@ -1,0 +1,88 @@
+body{
+    margin: 50px;
+    background-repeat: 2;
+    border: 1px solid black;
+    width: 1003px;
+    height: 871px;
+    background-color: #4C5958;
+    transform: translate(105px, 0px);
+    border: none;
+}
+
+h1{
+    font-family: "Updock", cursive;
+    text-align: center;
+    size: 35px;
+    border: 1px solid black;
+    height: 50px;
+    background-color: #10403B;
+    margin-bottom: 0px;
+    color: white;
+    
+}
+
+.pdp img{
+    border-radius: 150px;
+    width: 300px;
+    
+}
+
+.first{
+    font-size: 50px;
+    font-family: "Updock", cursive;
+}
+
+.after{
+    font-size: 35px;
+    font-family: "Arima", system-ui;
+}
+
+.anarana{
+    border: 1px solid black;
+    height: 280px;
+    width: 502px;
+    margin-top: -50px;
+    background-color: #BFBFBF;
+    border: none;
+    top: 50px;   
+}
+
+.gauche{
+    border: 1px solid black;
+    width: 500px;
+    text-align: center;
+    height: 800px;
+    background-color: #BFBFBF;
+    border: none;
+
+}
+.gauche a{
+    color: black;
+    text-decoration: none;
+}
+.gauche a:hover{
+    cursor: pointer;
+    color: white;
+    background-color: cornflowerblue;
+    
+}
+.droite{
+    border: 2px solid black;
+    width: 500px;
+    height: 762px;
+    transform: translate(500px, -766px);
+    text-align: center;
+    border: none;
+}
+.nom{
+    text-align: start;
+}
+
+.Age{
+    border: 1px solid black;
+   margin-top: -17px;
+   height: 521px;
+   width: 502px;
+   background-color:#8AA6A3;
+   border: none; 
+}
